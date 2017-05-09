@@ -88,7 +88,7 @@ alerts:
 #    recipients: ["ENCRYPTED_EMAIL_ADDRESS2", "ENCRYPTED_EMAIL_ADDRESS3"]
   slackAlert:
     type: "slack"
-    hookUrl: "T0KAGCC1J/B3Q80H9PC/DdJvxzcPhmwvZ0559EJ1O0U4"
+    hookUrl: "02HYOl03mtdXoQU4GlDPpJoo"
     channel: "website-launch"
     username: "SpeedTracker"
     iconEmoji: ":ghost:"
